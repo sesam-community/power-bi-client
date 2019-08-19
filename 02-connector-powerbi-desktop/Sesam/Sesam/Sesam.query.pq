@@ -1,0 +1,1 @@
+﻿Sesam.Feed("https://datahub-2e8f0d26.sesam.cloud/api/datasets/customers/entities")
